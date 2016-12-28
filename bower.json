@@ -1,0 +1,28 @@
+{
+  "name": "auth0-login",
+  "homepage": "https://github.com/arunkrishnamurthy/auth0-customlogin",
+  "authors": [
+    "Arun K <arun.kutta@gmail.com>"
+  ],
+  "description": "Auth0 custom login demo",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-auth0": "^1.0.0",
+    "angular-jwt": "~0.1.0",
+    "angular-ui-router": "~0.3.1",
+    "bootstrap": "~3.3.7"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
